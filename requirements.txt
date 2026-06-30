@@ -1,0 +1,9 @@
+aiohttp
+asyncio
+base58
+cryptography
+grpcio
+grpcio-tools
+telethon
+websockets
+solders

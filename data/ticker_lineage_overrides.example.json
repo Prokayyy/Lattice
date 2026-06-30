@@ -1,0 +1,11 @@
+{
+  "TICKER": [
+    {
+      "address": "tokenMintAddress",
+      "symbol": "TICKER",
+      "name": "Optional token name",
+      "source_url": "https://x.com/example/status/123",
+      "first_seen_at": "2024-01-01T00:00:00Z"
+    }
+  ]
+}
